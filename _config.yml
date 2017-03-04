@@ -42,8 +42,8 @@ jekyll-archives:
     category: '/archive/category/:name/'
 
 # Owner/author information
-author:
-  name:           
+author: asasas
+  name:           asasasas
   picture:        your-photo.jpg
   email:          your@email.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
